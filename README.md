@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0A66C2&height=200&section=header&text=Ghifari%20Diaz%20Fahrezi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0A66C2&height=200&section=header" width="100%"/>
 
 <br/>
 
