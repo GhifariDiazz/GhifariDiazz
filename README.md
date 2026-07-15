@@ -1,3 +1,8 @@
+<!-- profile view count -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=GhifariDiazz&color=0A66C2" alt="Profile views" />
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0A66C2&height=200&section=header&text=Ghifari%20Diaz%20Fahrezi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=55&descSize=16" width="100%"/>
@@ -91,6 +96,16 @@ An earlier portfolio iteration — part of the process of refining my frontend s
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhifariDiazz&theme=tokyo-night&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<!-- snake graph -->
+<h2>🐍 Snake eating my contribution graph 🐍</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhifariDiazz/GhifariDiazz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/GhifariDiazz/GhifariDiazz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/GhifariDiazz/GhifariDiazz/output/github-contribution-grid-snake.svg" alt="github-snake" />
+</picture>
 
 </div>
 
